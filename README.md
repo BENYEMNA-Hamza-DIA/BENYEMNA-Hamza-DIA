@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A student interested in big data, data sciences et AI !</h3>
 
