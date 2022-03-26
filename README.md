@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A student interrested in big data, data sciences et AI !</h3>
+<h3 align="center">A student interested in big data, data sciences et AI !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyemna-hamza-dia&label=Profile%20views&color=0e75b6&style=flat" alt="benyemna-hamza-dia" /> </p>
 
