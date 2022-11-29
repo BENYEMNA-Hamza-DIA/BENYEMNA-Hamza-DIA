@@ -1,9 +1,9 @@
-[![MasterHead](https://miro.medium.com/max/1020/1*ygICsXPe2LbLbPIcYvBxgA.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">An enthusiast of Data Science, Big Data and AI</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/background/20210712/original/pngtree-abstract-futuristic-digital-binary-big-data-science-technology-concept-picture-image_1173116.jpg](https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1020/1*ygICsXPe2LbLbPIcYvBxgA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyemna-hamza-dia&label=Profile%20views&color=0e75b6&style=flat" alt="benyemna-hamza-dia" /> </p>
 
